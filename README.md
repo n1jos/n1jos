@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World
+
+```typescript
+console.log("Hello, World!");
+```
 
 <!--
 **n1jos/n1jos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
