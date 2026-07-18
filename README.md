@@ -20,20 +20,15 @@ A collection of the hardware and devices I use every day. It includes my custom-
 | Case | Lian Li DAN Cases A4-H2O |
 | Operating System | Fedora Workstation |
 
-### Desk Setup
+### Other Devices
 
-| Category | Equipment |
+| Category | Device |
 |---|---|
 | Monitor | Alienware AW2723DF — 27-inch, 1440p, 240 Hz |
 | Keyboard | SteelSeries Apex Pro TKL (2023) |
 | Mouse | Pulsar X3 Crazy Light |
 | Headset | SteelSeries Arctis 9 |
 | Controller | Xbox Wireless Controller |
-
-### Portable Devices
-
-| Category | Device |
-|---|---|
 | Gaming Handheld | Steam Deck |
 | E-reader | Kobo Clara BW |
 | E-reader | XTEINK X4 |
