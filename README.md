@@ -4,7 +4,7 @@ console.log("Hello, World!");
 
 ## My Setup
 
-A collection of the hardware and devices I use every day. It includes my custom-built PC, desk setup, peripherals and portable devices.
+A collection of the hardware and devices I use every day, including my custom-built PC, peripherals, and portable devices.
 
 ### PC
 
