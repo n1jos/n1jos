@@ -1,7 +1,3 @@
-```typescript
-console.log("Hello, World!");
-```
-
 ## About Me
 
 Developer, Linux user, gamer and anime fan. Interested in clean UI, thoughtful UX and well-designed technology.
