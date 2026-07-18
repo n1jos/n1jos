@@ -2,6 +2,11 @@
 
 Developer, Linux user, gamer and anime fan. Interested in clean UI, thoughtful UX and well-designed technology.
 
+## Featured Repositories
+
+- [Dotfiles](https://github.com/n1jos/dotfiles) — Personal dotfiles, shell scripts, and system configurations.
+- [Homelab](https://github.com/n1jos/homelab) — Docker Compose configurations and documentation for my homelab setup.
+
 ## My Setup
 
 A collection of the hardware and devices I use every day, including my custom-built PC, peripherals, and portable devices.
