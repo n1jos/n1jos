@@ -2,6 +2,10 @@
 console.log("Hello, World!");
 ```
 
+## About Me
+
+Developer, Linux user, gamer and anime fan. Interested in clean UI, thoughtful UX and well-designed technology.
+
 ## My Setup
 
 A collection of the hardware and devices I use every day, including my custom-built PC, peripherals, and portable devices.
