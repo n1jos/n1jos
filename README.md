@@ -29,11 +29,11 @@ A collection of the hardware and devices I use every day. It includes my custom-
 | Mouse | Pulsar X3 Crazy Light |
 | Headset | SteelSeries Arctis 9 |
 | Controller | Xbox Wireless Controller |
-| Gaming Handheld | Steam Deck |
+| Gaming Handheld | Steam Deck OLED |
 | E-reader | Kobo Clara BW |
 | E-reader | XTEINK X4 |
-| Tablet | iPad |
-| Phone | iPhone |
+| Tablet | iPad Pro M4 |
+| Phone | iPhone 15 Pro |
 
 ---
 
