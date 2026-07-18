@@ -35,6 +35,7 @@ A collection of the hardware and devices I use every day, including my custom-bu
 | Headset | SteelSeries Arctis 9 |
 | Controller | Xbox Wireless Controller |
 | Gaming Handheld | Steam Deck OLED |
+| ePaper Display | TRMNL |
 | E-reader | Kobo Clara BW |
 | E-reader | XTEINK X4 |
 | Tablet | iPad Pro M4 |
