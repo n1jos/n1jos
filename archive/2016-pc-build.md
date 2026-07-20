@@ -1,6 +1,6 @@
 # 2016 PC Build
 
-This was my first ever custom pc build with a budget in mind. It was built so I can play computer games together with my friends from school. Honestly the best first-time build I could have managed — exceeding my expectations!
+My first-ever custom PC build, put together on a budget with one simple goal: to play games with my friends from school. For a first attempt, it turned out better than I ever expected—and honestly, I couldn’t have asked for a better introduction to PC building.
 
 | Component | Model |
 | --- | --- |
