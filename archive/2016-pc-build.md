@@ -1,5 +1,7 @@
 # 2016 PC Build
 
+This was my first ever custom pc build with a budget in mind. It was built so I can play computer games together with my friends from school. Honestly the best first-time build I could have managed — exceeding my expectations!
+
 | Component | Model |
 | --- | --- |
 | CPU | Intel Core i7-4790K, 4.00–4.40 GHz |
