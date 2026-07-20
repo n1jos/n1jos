@@ -11,7 +11,9 @@ Developer, Linux user, gamer and anime fan. Interested in clean UI, thoughtful U
 
 A collection of the hardware and devices I use every day, including my custom-built PC, peripherals, and portable devices.
 
-### PC
+### Custom PC
+
+My second-ever custom PC build, this time with no real budget in mind—because I finally have adult money to spend on it. The main goals were an ITX form factor for a clean, minimal setup on my standing desk, enough power to handle any game at 1440p, and plenty of performance for coding, software development, running virtual machines, and tackling more demanding projects.
 
 | Component | Model |
 |---|---|
