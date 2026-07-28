@@ -44,6 +44,7 @@ My second-ever custom PC build, this time with no real budget in mind—because 
 | Phone | iPhone 15 Pro |
 | Earbuds | AirPods Pro 2 |
 | Headphones | SONOS Ace |
+| Watch | Seiko SSK023 |
 
 ---
 
