@@ -42,8 +42,9 @@ My second-ever custom PC build, this time with no real budget in mind—because 
 | ePaper Display | TRMNL |
 | E-reader | Kobo Clara BW |
 | E-reader | XTEINK X4 |
-| Tablet | iPad Pro M4 |
 | Phone | iPhone 15 Pro |
+| Earbuds | AirPods Pro 2 |
+| Headphones | SONOS Ace |
 
 ---
 
