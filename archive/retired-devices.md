@@ -6,6 +6,8 @@ The table below includes the device name, device type, year of retirement, any n
 
 | Device | Year Retired | Replacement | Notes |
 |--------|--------------|-------------|-------|
+| MacBook Air M2 13" | 2026 | — | — |
+| iPad Pro M4 | 2026 | — | — |
 | SteelSeries Aerox 5 Wireless | 2026 | Pulsar X3 Crazy Light | SteelSeries support on Linux was virtually nonexistent. |
 | Apple Watch Series 7 | 2025 | Seiko SSK023 | — |
 | SteelSeries Sensei 310 | 2024 | SteelSeries Aerox 5 Wireless | Switched to wireless mice for a better FPS gaming experience. |
@@ -14,3 +16,7 @@ The table below includes the device name, device type, year of retirement, any n
 | iPhone 13 Pro | 2023 | iPhone 15 Pro | — |
 | Galaxy Watch ??? | 2022 | Apple Watch Series 7 | Did not integrate as well with the iPhone as the Apple Watch. |
 | OnePlus 6T | 2021 | iPhone 13 Pro | — |
+| Keychron K2 V2 Wireless | — | — | — |
+| Sony MDR-XB ??? | — | — | — |
+| Samsung Galaxy Tab ??? | — | — | — |
+| Xiaomi Laptop ??? | — | — | — |
