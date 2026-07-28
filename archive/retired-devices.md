@@ -12,7 +12,7 @@ The table below includes the device name, device type, year of retirement, any n
 | Apple Watch Series 7 | 2025 | Seiko SSK023 | — |
 | SteelSeries Sensei 310 | 2024 | SteelSeries Aerox 5 Wireless | Switched to wireless mice for a better FPS gaming experience. |
 | [2016 Custom PC](/archive/2016-pc-build.md) | 2023 | [2023 Custom PC](/archive/2023-pc-build.md) | Struggled to keep up with newer game releases. |
-| ??? | 2023 | SteelSeries Apex Pro TKL (2023) | — |
+| Sharkoon SKILLER SGK3 | 2023 | SteelSeries Apex Pro TKL (2023) | — |
 | iPhone 13 Pro | 2023 | iPhone 15 Pro | — |
 | Galaxy Watch ??? | 2022 | Apple Watch Series 7 | Did not integrate as well with the iPhone as the Apple Watch. |
 | OnePlus 6T | 2021 | iPhone 13 Pro | — |
