@@ -10,6 +10,7 @@ The table below includes the device name, device type, year of retirement, any n
 | iPad Pro M4 | 2026 | — | — |
 | SteelSeries Aerox 5 Wireless | 2026 | Pulsar X3 Crazy Light | SteelSeries support on Linux was virtually nonexistent. |
 | Apple Watch Series 7 | 2025 | Seiko SSK023 | — |
+| Sony MDR-XB950N1 | 2025 | SONOS Ace | — |
 | SteelSeries Sensei 310 | 2024 | SteelSeries Aerox 5 Wireless | Switched to wireless mice for a better FPS gaming experience. |
 | [2016 Custom PC](/archive/2016-pc-build.md) | 2023 | [2023 Custom PC](/archive/2023-pc-build.md) | Struggled to keep up with newer game releases. |
 | Sharkoon SKILLER SGK3 | 2023 | SteelSeries Apex Pro TKL (2023) | — |
@@ -17,6 +18,5 @@ The table below includes the device name, device type, year of retirement, any n
 | Galaxy Watch ??? | 2022 | Apple Watch Series 7 | Did not integrate as well with the iPhone as the Apple Watch. |
 | OnePlus 6T | 2021 | iPhone 13 Pro | — |
 | Keychron K2 V2 Wireless | — | — | — |
-| Sony MDR-XB ??? | — | — | — |
 | Samsung Galaxy Tab ??? | — | — | — |
 | Xiaomi Laptop ??? | — | — | — |
