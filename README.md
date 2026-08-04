@@ -48,4 +48,4 @@ My second-ever custom PC build, this time with no real budget in mind—because 
 
 ---
 
-_Last updated: July 2026_
+_Last updated: August 2026_
