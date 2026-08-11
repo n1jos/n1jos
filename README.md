@@ -41,6 +41,7 @@ My second-ever custom PC build, this time with no real budget in mind—because 
 | Gaming Handheld | Steam Deck OLED |
 | ePaper Display | TRMNL |
 | E-readers | Kobo Clara BW<br>XTEINK X4 |
+| Tablet | iPad Pro M4 |
 | Phone | iPhone 15 Pro |
 | Earbuds | AirPods Pro 2 |
 | Headphones | SONOS Ace |
