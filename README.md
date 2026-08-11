@@ -31,6 +31,8 @@ My second-ever custom PC build, this time with no real budget in mind—because 
 
 ### Other Devices
 
+Everything else that makes up my day-to-day setup, from peripherals and audio gear to phones, e-readers, and other devices I regularly use. This section covers the hardware that doesn’t quite fit under my custom PC but still plays a part in how I work, relax, and interact with tech every day.
+
 | Category | Device |
 |---|---|
 | Monitor | Alienware AW2723DF — 27-inch, 1440p, 240 Hz |
