@@ -16,7 +16,7 @@ The table below includes the device name, device type, year of retirement, any n
 | iPhone 13 Pro | 2023 | iPhone 15 Pro | — |
 | Galaxy Watch ??? | 2022 | Apple Watch Series 7 | Did not integrate as well with the iPhone as the Apple Watch. |
 | OnePlus 6T | 2021 | iPhone 13 Pro | — |
-| Sony Xperia XA Ultra | — | OnePlus 6T | — |
+| Sony Xperia XA Ultra | 2018 | OnePlus 6T | Storage was running out |
 | Sony Xperia M4 Aqua | — | Sony Xperia XA Ultra | — |
 | Sony Ericsson Xperia arc S | — | Sony Xperia M4 Aqua | — |
 | Keychron K2 V2 Wireless | — | — | — |
