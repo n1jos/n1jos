@@ -6,7 +6,6 @@ The table below includes the device name, device type, year of retirement, any n
 
 | Device | Year Retired | Replacement | Notes |
 |--------|--------------|-------------|-------|
-| MacBook Air M2 13" | 2026 | — | — |
 | SteelSeries Aerox 5 Wireless | 2026 | Pulsar X3 Crazy Light | SteelSeries support on Linux was virtually nonexistent. |
 | Apple Watch Series 7 | 2025 | Seiko SSK023 | — |
 | Sony MDR-XB950N1 | 2025 | SONOS Ace | — |
