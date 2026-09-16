@@ -17,4 +17,4 @@ Everything else that makes up my day-to-day setup, from peripherals and audio ge
 | Phone | iPhone 15 Pro |
 | Earbuds | AirPods Pro 2 |
 | Headphones | SONOS Ace |
-| Watch | Seiko SSK023 |
+| Watch | Seiko SSK023<br>Casio F-91W |
