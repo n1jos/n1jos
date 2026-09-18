@@ -4,8 +4,6 @@ This is a personal record of the countries I have visited.
 
 I may eventually use this data to build an interactive world map, but for now I am keeping it as a simple Markdown document that is easy to maintain and remains readable directly on GitHub.
 
-## Visited countries
-
 - 🇦🇹 Austria
 - 🇨🇦 Canada
 - 🇨🇿 Czechia
