@@ -7,13 +7,13 @@ Everything else that makes up my day-to-day setup, from peripherals and audio ge
 | Monitor         | Alienware AW2723DF — 27-inch, 1440p, 240 Hz |
 | Keyboard        | SteelSeries Apex Pro TKL (2023)             |
 | Mouse           | Pulsar X3 Crazy Light                       |
+| Speakers        | Logitech Z407                               |
 | Headset         | SteelSeries Arctis 9                        |
-| Controller      | Xbox Wireless Controller                    |
-| Gaming Handheld | Steam Deck OLED                             |
-| ePaper Display  | TRMNL                                       |
-| E-readers       | Kobo Clara BW<br>XTEINK X4                  |
 | Laptop          | MacBook Air M2 13"                          |
+| Gaming          | Steam Deck OLED<br>Xbox Wireless Controller |
 | Phone           | iPhone 15 Pro                               |
 | Earbuds         | AirPods Pro 2                               |
 | Headphones      | SONOS Ace                                   |
+| E-readers       | Kobo Clara BW<br>XTEINK X4                  |
+| ePaper Display  | TRMNL                                       |
 | Watch           | Seiko SSK023<br>Casio F-91W                 |
