@@ -9,6 +9,7 @@ Everything else that makes up my day-to-day setup, from peripherals and audio ge
 | Audio          | Logitech Z407<br>SteelSeries Arctis 9<br>SONOS Ace<br>AirPods Pro 2 |
 | Gaming         | Steam Deck OLED<br>Xbox Wireless Controller                         |
 | Laptop         | MacBook Air M2 13"                                                  |
+| Tablet         | iPad Pro M4 11"                                                     |
 | Phone          | iPhone 15 Pro                                                       |
 | E-readers      | Kobo Clara BW<br>XTEINK X4                                          |
 | ePaper Display | TRMNL                                                               |
