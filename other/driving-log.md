@@ -22,7 +22,8 @@ This is a personal record of the vehicles I’ve driven **myself, rather than si
 | Hyundai i10            |            |            |          |        | manual            | Grandpa’s car   |         |
 | Toyota Avensis         |            |            |          |        | manual            | Grandpa’s car   | 2nd Gen |
 | Toyota Avensis         |            |            |          |        | manual            | Grandpa’s car   | 1st Gen |
+| Citroën                |            |            |          |        | automatic         | Friend’s car    |         |
 | Volkswagen Transporter |            |            |          |        | automatic         | Ambulance       |         |
 | BMW i3                 |            |            | EV       |        |                   | Driving school  |         |
 
-*Total: 20 Cars*
+*Total: 21 Cars*
