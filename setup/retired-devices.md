@@ -6,6 +6,7 @@ The table below includes the device name, device type, year of retirement, any n
 
 | Device                                      | Year Retired | Replacement                                 | Notes                                                         |
 | ------------------------------------------- | ------------ | ------------------------------------------- | ------------------------------------------------------------- |
+| Apple iPad Pro M4 11"                       | 2026         |                                             |                                                               |
 | Steam Deck OLED 512GB                       | 2026         |                                             | Didn't use it as much as I thought I would.                   |
 | SteelSeries Aerox 5 Wireless                | 2026         | Pulsar X3 Crazy Light                       | SteelSeries support on Linux was virtually nonexistent.       |
 | Apple Watch Series 7                        | 2025         | Seiko SSK023                                | Stopped caring about smartwatch features                      |
@@ -13,9 +14,9 @@ The table below includes the device name, device type, year of retirement, any n
 | SteelSeries Sensei 310                      | 2024         | SteelSeries Aerox 5 Wireless                | Switched to wireless mice for a better FPS gaming experience. |
 | [2016 Custom PC](/archive/2016-pc-build.md) | 2023         | [2023 Custom PC](/archive/2023-pc-build.md) | Struggled to keep up with newer game releases.                |
 | Sharkoon SKILLER SGK3                       | 2023         | SteelSeries Apex Pro TKL (2023)             | —                                                             |
-| iPhone 13 Pro                               | 2023         | iPhone 15 Pro                               | —                                                             |
+| Apple iPhone 13 Pro                         | 2023         | Apple iPhone 15 Pro                         | —                                                             |
 | Galaxy Watch ???                            | 2022         | Apple Watch Series 7                        | Did not integrate as well with the iPhone as the Apple Watch. |
-| OnePlus 6T                                  | 2021         | iPhone 13 Pro                               | —                                                             |
+| OnePlus 6T                                  | 2021         | Apple iPhone 13 Pro                         | —                                                             |
 | Sony Xperia XA Ultra                        | 2018         | OnePlus 6T                                  | Storage was running out                                       |
 | Sony Xperia M4 Aqua                         | —            | Sony Xperia XA Ultra                        | —                                                             |
 | Sony Ericsson Xperia arc S                  | —            | Sony Xperia M4 Aqua                         | —                                                             |
